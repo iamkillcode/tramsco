@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.6da81f5f.css",
-    "main.js": "/static/js/main.7ab10798.js",
+    "main.css": "/static/css/main.4d52cf32.css",
+    "main.js": "/static/js/main.f67c8292.js",
+    "static/media/MaskGroup15.png": "/static/media/MaskGroup15.1de66650b8b5118da367.png",
     "static/media/shpcontainerimg.png": "/static/media/shpcontainerimg.72cef8e6d33448db0a82.png",
-    "static/media/1628629.webp": "/static/media/1628629.71e7ebf37231e3a8bef5.webp",
+    "static/media/Group1.png": "/static/media/Group1.d36ee3e87f5866c5e70c.png",
+    "static/media/Icon ionic-ios-globe-2.png": "/static/media/Icon ionic-ios-globe-2.50b3fb16abb11a234877.png",
     "static/media/logo.png": "/static/media/logo.e598ea16a72b9f8df040.png",
     "index.html": "/index.html",
-    "main.6da81f5f.css.map": "/static/css/main.6da81f5f.css.map",
-    "main.7ab10798.js.map": "/static/js/main.7ab10798.js.map"
+    "main.4d52cf32.css.map": "/static/css/main.4d52cf32.css.map",
+    "main.f67c8292.js.map": "/static/js/main.f67c8292.js.map"
   },
   "entrypoints": [
-    "static/css/main.6da81f5f.css",
-    "static/js/main.7ab10798.js"
+    "static/css/main.4d52cf32.css",
+    "static/js/main.f67c8292.js"
   ]
 }
